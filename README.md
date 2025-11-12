@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a CPA with over 30 years of experience and recently completed a full-stack development bootcamp in which I successfully built several projects using Javascript, React, Sql, Prisma and Nodejs.
+I am a CPA with over 25 years of experience and recently completed a full-stack development bootcamp in which I successfully built several projects using Javascript, React, Sql, Prisma and Nodejs.
 <br>
 My current focus is on combining my accounting skills with technology solutions: developing financial applications, automating accounting tasks and creating web tools for reporting, reconciliation and analysis.
 - 📫 How to reach me: https://www.linkedin.com/in/marianellylopez
