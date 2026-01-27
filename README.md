@@ -3,10 +3,10 @@
 I am a CPA with over 25 years of experience and recently completed a full-stack development bootcamp in which I successfully built several projects using Javascript, React, Sql, Prisma and Nodejs.
 <br>
 My current focus is on combining my accounting skills with technology solutions: developing financial applications, automating accounting tasks and creating web tools for reporting, reconciliation and analysis.
-- 📫 How to reach me: https://www.linkedin.com/in/marianellylopez
+
 <!--
 **manelly67/manelly67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- 📫 How to reach me: https://www.linkedin.com/in/marianellylopez
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
